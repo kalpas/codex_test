@@ -10,6 +10,12 @@ Run the tests with Gradle:
 gradle test
 ```
 
+Check formatting with ktlint:
+
+```bash
+gradle ktlintCheck
+```
+
 The application can be started with:
 
 ```bash
